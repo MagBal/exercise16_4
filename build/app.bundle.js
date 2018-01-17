@@ -8697,10 +8697,10 @@ if(false) {
 
 exports = module.exports = __webpack_require__(16)(false);
 // imports
-
+exports.push([module.i, "@import url(https://fonts.googleapis.com/css?family=Poppins:400,700,800,900);", ""]);
 
 // module
-exports.push([module.i, ".DcXSjcjjaX9_NvqU207c- {\r\n\ttext-align: center;\r\n}", ""]);
+exports.push([module.i, ".DcXSjcjjaX9_NvqU207c- {\r\n\ttext-align: center;\r\n\tfont-size: 30px;\r\n\tfont-family: 'Poppins', sans-serif;\r\n}", ""]);
 
 // exports
 exports.locals = {
